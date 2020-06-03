@@ -19,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 > Open [Live demo](https://ihor-onyshchuk.github.io/giphy-search/)
 
-![cover for app]('preview')
+![cover for app](https://github.com/Ihor-Onyshchuk/giphy-search/blob/master/preview.png 'preview')
