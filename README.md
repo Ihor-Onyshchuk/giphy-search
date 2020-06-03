@@ -2,7 +2,7 @@
 
 This app uses free [JSON API](https://developers.giphy.com/) for get giphy.
 
-Created with React/Redux/Redux-Saga/immutable.js/React-Spring/SCSS/bootstrap/
+Created with React / Redux-Saga / React-Spring / Immutable.js / SCSS / bootstrap
 
 ## Getting started
 
