@@ -2,6 +2,8 @@
 
 This app uses free [JSON API](https://developers.giphy.com/) for get giphy.
 
+Created with React/Redux/Redux-Saga/immutable.js/React-Spring/SCSS/bootstrap/
+
 ## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
