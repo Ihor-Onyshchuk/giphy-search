@@ -7,7 +7,10 @@ import '../../index.scss';
 const Search = props => {
   return (
     <div className="search">
-      <input onChange={event => onInputChange(event, props)} />
+      <input
+        onChange={event => onInputChange(event, props)}
+        placeholder="search gifs..."
+      />
     </div>
   );
 };
