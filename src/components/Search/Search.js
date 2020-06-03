@@ -2,12 +2,13 @@ import React from 'react';
 import { connect } from 'react-redux';
 
 import { getSearchResults } from './action';
+import '../../index.scss';
 
-const Search = (props) => {
+const Search = props => {
   return (
-    <>
-      <input onChange={(event) => onInputChange(event, props)} />
-    </>
+    <div className="search">
+      <input onChange={event => onInputChange(event, props)} />
+    </div>
   );
 };
 

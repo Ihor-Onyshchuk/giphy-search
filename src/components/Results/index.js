@@ -4,7 +4,11 @@ import Result from './Result';
 
 const Results = props => {
   if (props.searchResults) {
-    return <>{renderSearchResults(props.searchResults)}</>;
+    return (
+      <div className='d-flex justify-content-center flex-wrap'>
+        {renderSearchResults(props.searchResults)}
+      </div>
+    );
   }
   return null;
 };
